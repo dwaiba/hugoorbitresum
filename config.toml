@@ -276,7 +276,7 @@ disable404 = true
         level = "90%"
         
         [[params.skills.list]]
-        skill = "Container Management Platforms, Kubernetes/Heptio/GCE, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Jenkins, TeamCity, VSTS, Various CLIs and APIs
+        skill = "Container Management Platforms, Kubernetes/Heptio/GCE, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Jenkins, TeamCity, VSTS, Various CLIs and APIs."
         level = "90%"
         
         [[params.skills.list]]
