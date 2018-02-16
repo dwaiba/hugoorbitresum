@@ -31,7 +31,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Dwai Banerjee"
-        tagline = "Senior Director, Systems Architect, Full Stack Developer"
+        tagline = "Senior Director, Systems Architect, Full Stack Developer - Lives in The Netherlands"
         avatar = "3b27979.jpg"
 
     # Contact section
@@ -81,7 +81,7 @@ disable404 = true
 
         [[params.education.list]]
         degree = "Bachelor of Engineering"
-        college = "National Institute of Technology"
+        college = "National Institute of Technology, India"
         dates = "1997 - 2001"
 
         #[[params.education.list]]
@@ -91,7 +91,7 @@ disable404 = true
 
     # Languages section
     [params.language]
-        enable = true
+        enable = false
         title = "Languages"
 
         [[params.language.list]]
