@@ -252,28 +252,49 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
-        level = "98%"
+        skill = "Intel Xeon Phi Coprocessors, Intel Parallel Studio XE, ITAC, Intel Lustre, GlusterFS, Mellanox 6th Generation Device Drivers, DAPL, Infiniband, RoCEv2, Intel Compilers, Intel MPI, LINPACK, IMB and various other benchmarking, MPI 2.2/3.0/3.1, NUMA, mpicc/mpiicc/icc/ifort, CUDA/CUDAnn, OFED, Open MPI, Torque (Maui/MOAB), SLURM, NVIDIA DIGITS, Toolkits like CNTK, Caffe2, Keras and Tensorflow, nvidia-docker"
+        level = "90%"
                 
         [[params.skills.list]]
-        skill = "Javascript & jQuery"
-        level = "98%"
+        skill = "C/C++, Shell, Python, Go, node.js, Java EE, Spring Boot, Git, Gerrit"
+        level = "90%"
 
         [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
+        skill = "Linux, UNIX, Fedora, RHEL, CentOS, Ubuntu, Custom Kernels, AIX, HP-UX and various other flavours"
+        level = "90%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
-        level = "95%"
+        skill = "Cloud overlays, Google Cloud, AWS, Microsoft Azure, Digital Ocean, IBM Bluemix, CloudFoundry, Full scale Templatized deployable immutable cloud solutions, CLIs and Cloud APIs, Scaling, Iaas Clusters, Various PaaS on CSPs"
+        level = "90%"
 
         [[params.skills.list]]
-        skill = "Ruby on Rails"
-        level = "75%"
+        skill = "API Management , API Security, API Design, node-red, netflix spring boot, Loopback, 3scale, WS02, Open Source API Management, Keycloak, CA Layer7, IDM Stacks"
+        level = "90%"
 
         [[params.skills.list]]
-        skill = "Sketch & Photoshop"
-        level = "60%"
+        skill = "Hypervisors, Microvisors,KVM, Hyper-V, VMWare, vagrant, Hashicorp tools"
+        level = "90%"
+        
+        [[params.skills.list]]
+        skill = "Container Management Platforms, Kubernetes/Heptio/GCE, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Jenkins, TeamCity, VSTS, Various CLIs and APIs
+        level = "90%"
+        
+        [[params.skills.list]]
+        skill = "Middleware and ESB, WebSphere Stack and topologies, WebSphere ESB, Oracle SOA Suite components, JBoss Community and EAP components, Fuse, Mule distributed, Websphere MQ, AMQP, Event Hubs, Software AG Apama Event Monitors"
+        level = "90%"
+        
+        [[params.skills.list]]
+        skill = "HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts"
+        level = "80%"
+        
+        [[params.skills.list]]
+        skill = "DB2, Oracle RDBMS, SQL Server, Postgressql, Redis, mongodb, HBase"
+        level = "80%"
+                
+        [[params.skills.list]]
+        skill = "Hadoop Data Platform components, YARN and scheduling, HDFS, Apache Kafka, Apache Phoenix, SparkML, Data Lake Pattens, HDinsights, Livy"
+        level = "70%"
+               
 
     # Footer section
 
