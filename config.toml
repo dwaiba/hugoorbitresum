@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://example.org/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Dwai Banerjee Resume"
 theme = "hugo-orbit-theme"
