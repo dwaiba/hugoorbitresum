@@ -24,7 +24,7 @@ disable404 = true
     # are available. Also the source LESS files are included so
     # it’s quick and easy to change the styling and colour scheme.
 
-    styles = "styles-5.css"
+    styles = "styles-3.css"
 
 # Sidebar sections
 
@@ -50,11 +50,11 @@ disable404 = true
         #url = "tel:+1234567890"
         #title = "+1234567890"
 
-        [[params.contact.list]]
-        class = "website"
-        icon = "fa-globe"
-        url = "//cloudgear.io"
-        title = "cloudgear.io"
+        #[[params.contact.list]]
+        #class = "website"
+        #icon = "fa-globe"
+        #url = "//cloudgear.io"
+        #title = "cloudgear.io"
 
         [[params.contact.list]]
         class = "linkedin"
@@ -112,7 +112,7 @@ disable404 = true
 
     # Interests section
     [params.interests]
-        enable = true
+        enable = false
         title = "Interests"
 
         [[params.interests.list]]
