@@ -148,22 +148,70 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
-        dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+        position = "Senior Solution Director"
+        dates = "May, 2017 to Present"
+        company = " HCL Technologies, The Netherlands and EMEA"
+        details = "Public/Private Cloud enablement,Microservices on immutable infrastructures, container standards/implementations for European conglomerates. HPC/GPU compute fabrics for customers across the world."
 
         [[params.jobs.list]]
-        position = "Senior Software Engineer"
-        dates = "2014 - 2015"
-        company = "Google, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        position = "Cloud Solution Architect"
+        dates = "January, 2016 to April, 2017"
+        company = "Microsoft , The Netherlands and Seattle, United States"
+        details = "Created and maintained Azure github repositories for K80 (GK210 Duo) GPU Compute Auto Linux clusters for CUDA non graphical apps. HPC Big computes RDMA/IB Auto linux clusters for Intel MPI on Azure. These are immutable, intelligent compute grids with nvdia docker options and configurable soft RAID0. Created and maintained Azure github repository for M60 Graphical 3D Apps over PCoIP with latest Windows NVIDIA Azure Skus. Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure). Explore the repositories in the github media link with the pinned repositories @ https://github.com/dwaiba."
 
         [[params.jobs.list]]
-        position = "UI Developer"
-        dates = "2012 - 2014"
-        company = "Amazon, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
+        position = "Principal, Solution Architecture"
+        dates = "August, 2015 to November, 2015"
+        company = "Exact Software, Delft, The Netherlands"
+        details = " R&D on future enabling Exact product portfolio."
+        
+        [[params.jobs.list]]
+        position = "Senior Consultant"
+        dates = "February 2013 to July, 2015"
+        company = "Enable-U B.V., The Netherlands and Africa"
+        details = " Governance, Integration, Security, Appliances, Registry, Cloud, API management, product dev, Nederlandse overheid (Dutch Government)."
+        
+        [[params.jobs.list]]
+        position = "Domain Solution Architect"
+        dates = "October, 2011 to January, 2013"
+        company = "Canon Europa N.V., The Netherlands"
+        details = "Architect for Integration and Data @ Canon Europa. Design authority for Integration, data and B2B. Designing, building, implementing and managing the Canon landscape in WebSphere, Informatica, Oracle SOA Suite, virtual Infrastructure. Establishing DevOps and automation/scaling for Middleware for platform stabilization. Building the Centre Of Excellence."
+        
+        [[params.jobs.list]]
+        position = "Technical Architect"
+        dates = "April, 2009 to October, 2011"
+        company = "TMNS B.V., The Netherlands, Switzerland"
+        details = "Worked on Enterprise Architecture, open systems, Oracle, WebSphere, TIBCO, Progress Sonic, Apama, Mule, JBoss, Apache projects. Consulted, designed and developed for various Dutch and Swiss businesses in the SOA, BPM and CEP space. Architected and programmed a successful CEP based Automated online Ad optimization platform. Set up large, high performing and scalable middleware infrastructure especially using VMWare, Amazon EC2 and virtualization techniques. Defined roadmaps for autonomic computing and implemented full scale AWS solutions."
+        
+        [[params.jobs.list]]
+        position = "Technical Architect"
+        dates = "June, 2007 to February, 2009"
+        company = "HCL Technologies, India and across the world."
+        details = "Worked primarily with Cisco AON (Application-Oriented Network), product enhancements, SaaS gateways and other solutions. CISCO AON is a network-embedded/ appliance based middleware. Led a team of developers. We developed some of the first Enterprise class SaaS device connectors. Defined end to end detailed transformation solutions and laid out numerous successful Middleware product choices / implementations for a large range of customers around the world using varied stacks from opensource ESBs, Integration appliances to Commercial SOA stacks. Built a successful SOA Governance model for the Insurance and Investments division of a large British banking conglomerate."
+        
+        [[params.jobs.list]]
+        position = "Senior Member Technical Staff"
+        dates = "April, 2006 to June, 2007"
+        company = "Oracle Server Technologies, India."
+        details = "Oracle’s SOA Suite 10.1.3.x and Fabric (11g) Dev team."
+        
+        [[params.jobs.list]]
+        position = "Engineer"
+        dates = "November, 2003 to April, 2006"
+        company = "IBM, India and the across the world."
+        details = "Worked with almost all products of the WebSphere stack, large AIX base setups, developing and consulting for various customers across the globe."
+        
+        [[params.jobs.list]]
+        position = "Developer"
+        dates = "July, 2003 to October, 2003"
+        company = "Ontrack Systems Ltd., Calcutta, India"
+        details = "Developer of an end to end Distributed Logistics systems for Japanese and British customers."
+        
+        [[params.jobs.list]]
+        position = "C++/Web developer"
+        dates = "2001 to July, 2003"
+        company = "Various, Pan Indian sub-continent."
+        details = "Worked as a java/c++/web programmer and linux administrator."
 
     # Projects section
     [params.projects]
