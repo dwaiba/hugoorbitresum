@@ -139,7 +139,28 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Summarise your career here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
+        summary = "Dwaipayan (Dwai) Banerjee is a full stack Architect, recognized as an expert with proven
+leadership capabilities. He is equally adept at building the Architectural Roadmap and/or
+Product Component Design and Layering, leading architecture teams; creating and
+implementing time boxed IT strategy including mission critical API Strategies, cloud
+strategies for large and medium businesses as well as build and lead closely knit, high
+performing engineering teams/labs from ideation, inception to completion.
+
+Being a patterns expert, Dwai can fast assist in pinpointing and establishing specific
+reusable patterns and easy maintainable implementation of the same, drastically bring
+market churn via rapid innovations in existing product lines for a profitable and
+customer/consumer centric industry service.
+
+For more than seventeen years, he has successfully created and implemented end to end
+innovative products and solutions for various initiatives across the globe. He has also built
+and mentored high performing cross cultural teams across the globe and especially loves
+to build distributed teams into a motivated engineering force.
+He loves wearing numerous hats and has also been instrumental as a seasoned negotiator, insightful Solution
+Architect/Product Manager and consensus builder, in initiating numerous high value
+transformational solutions/Feature-rich Products across the globe.
+
+Dwai is an elegant Developer skilled in multiple languages with specific interests in
+Massively Distributed systems, Large scale immutable HPC and latest GPU topology creation and roll out on major cloud service providers, full stack Virtualized MicroServices,  Optimization, automation and subsequent value added commercialization of the same."
 
     # Experiences section
     [params.experiences]
@@ -218,32 +239,28 @@ disable404 = true
         enable = true
         icon = "fa-archive"
         title = "Projects"
-        intro = "**You can list your side projects or open source libraries in this section.** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus"
+        intro = "Some Github projects"
 
         [[params.projects.list]]
-        title = "Hugrid"
-        url = "https://github.com/aerohub/hugrid"
-        tagline = "Grid theme for Hugo. It's a kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on"
+        title = "Azure Big compute"
+        url = "https://aka.ms/azurebigcompute"
+        tagline = "GPU Sku usage for Ubuntu and CentOS, Standard Open Source Scheduler Deployments for HPC Skus for CentOS HPC with OMS. Latest Docker CE and nvidia-docker present in all. Spin up immutable automated clusters from headless mirror @ https://github.com/cloudgear-io/azure-bigcompute for running your DNN Toolkits at scale"
 
         [[params.projects.list]]
-        title = "Simple FAQ Theme for Hugo"
-        url = "https://github.com/aerohub/hugo-faq-theme"
-        tagline = "Simple FAQ Theme for Hugo. You may use this theme for building very simple FAQs or note lists."
+        title = "Visualization GPU Clusters"
+        url = "https://aka.ms/accessgpu"
+        tagline = "Immutable Cluster creation for M60 Visualization GPUs in the cloud for Graphical Apps VDI"
 
         [[params.projects.list]]
-        title = "Hugo Identity"
-        url = "https://github.com/aerohub/hugo-identity-theme"
-        tagline = "Little profile/card-style template for Hugo."
+        title = "Immutable Clusters for Docker CE overlay"
+        url = "https://github.com/Azure/azure-docker4azureoms"
+        tagline = "Docker CE Overlay for Azure immutable scalable cluster provisioning with Monitoring"
 
         [[params.projects.list]]
-        title = "Orbit"
-        url = "https://github.com/aerohub/hugo-orbit-theme"
-        tagline = "Hugo Resume/CV Theme for Developers."
+        title = "Docker Datacenter overlay with OMS Monitoring"
+        url = "https://github.com/dwaiba/dockerddcoms"
+        tagline = "Docker datacenter component provisioning with scalable immutable clusters and monitoring. Also created the first provisioning repo for Docker Datacenter private beta."
 
-        [[params.projects.list]]
-        title = "Me"
-        url = "https://github.com/aerohub/hugo-me-theme"
-        tagline = "A simple responsive Hugo theme for personal site."
 
     # Skills section
     [params.skills]
